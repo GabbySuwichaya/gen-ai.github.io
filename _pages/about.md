@@ -22,8 +22,10 @@ Our activities are
 
 - My work experience is also provided in [*CV*](https://genai.cuee.io/CV).  
 
-Our github page: https://github.com/GenAI-CUEE will also be consistently updated to provide the materials for the students.   
+- Moreover, we often collaborate with [energyCUEE](https://github.com/energyCUEE) led by [Professor Jitkomut Songsiri](http://jitkomut.eng.chula.ac.th/) for the AI-based solution in solar energy.
 
-Moreover, we often collaborate with [energyCUEE](https://github.com/energyCUEE) led by [Professor Jitkomut Songsiri](http://jitkomut.eng.chula.ac.th/) for the AI-based solution in solar energy.
+Our github page: [https://github.com/GenAI-CUEE](https://github.com/GenAI-CUEE) will also be consistently updated to provide the materials for the students.   
+
+
 
  
