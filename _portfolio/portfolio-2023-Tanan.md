@@ -1,6 +1,6 @@
 ---
 title: "Deep learning for solar energy forecasting using time-series data"
-excerpt: "This project studies the training of DNNs and used them to infer solar irradiance from a CUEE Dataset. <br/><img src='/images/portfolio_Y2023_Tanan.png' width='300'>"
+excerpt: "This project studies the training of DNNs and used them to infer solar irradiance from a CUEE Dataset. <br/><img src='/images/portfolio-Y2023-Tanan.png' width='300'>"
 collection: portfolio
 ---
 
