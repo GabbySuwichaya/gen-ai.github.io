@@ -22,10 +22,10 @@ repository               : "GabbySuwichaya/gen-ai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/bio-ssk-3.jpeg"
+  avatar           : "profile-genai.png"
   name             : "Suwichaya Suwanwimolkul"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer"
+  bio              : "Research group"
   location         : "Bangkok, Thailand"
   employer         : "Chulalongkorn University"
   uri              : # URL
