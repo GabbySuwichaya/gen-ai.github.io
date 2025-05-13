@@ -7,27 +7,32 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
-  - title: "Publications"
-    url: /publications/
+main:   
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research Groups"
+    url: /portfolio/   
+
 
   - title: "Teaching"
     url: /teaching/    
+
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en
     
+
   - title: "CV"
-    url: /cv/
+    url: /files/SuwichayaCV.pdf 
+
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Talks"
+  #   url: /talks/    
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
