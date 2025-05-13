@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Gabby. Welcome to GenAI-CUEE!"
+title: "Welcome to GenAI-CUEE!"
 author_profile: true
 redirect_from: 
   - /about/
