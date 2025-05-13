@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to GenAI-CUEE!"
+title: "Welcome to GenAI!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,22 +9,16 @@ redirect_from:
 
 
 
-GenAI-CUEE is a research group at Chulalongkorn University under [Data Analytics (DTA) 📈](https://ee.eng.chula.ac.th/data-analytics-dta/). 
+GenAI is a research group at Chulalongkorn University under [Data Analytics (DTA) 📈](https://ee.eng.chula.ac.th/data-analytics-dta/). 
 
 
 Our missions are: 
 
-- academic reasearch for deep learning-based solutions. 
+- academic reasearch for deep learning-based solutions. [*Research Groups*](https://genai.cuee.io/portfolio) for the recent works done by undergraduate students.  
 
- [*Research Groups*](https://genai.cuee.io/portfolio) for the recent works done by undergraduate students.  
+- academic lectures in machine learning and data analytics. [*Teaching*](https://genai.cuee.io/teaching) for the course materials in Estimation Theory and Statististical Modeling and Inference. 
 
-- academic lectures in machine learning and data analytics. 
-
- [*Teaching*](https://genai.cuee.io/teaching) for the course materials in Estimation Theory and Statististical Modeling and Inference. 
-
-- AI-based solutions solutions to those who are interested.  
-
- [*Publications*](https://genai.cuee.io/Publications) provides our past works done in the industries.  
+- AI-based solutions solutions to those who are interested. [*Publications*](https://genai.cuee.io/Publications) provides our past works done in the industries.  
 
 - My work experience is also provided in [*CV*](https://genai.cuee.io/CV).  
 

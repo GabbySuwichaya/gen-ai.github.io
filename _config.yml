@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Gabby's homepage"
+title                    : "GenAI's homepage"
 title_separator          : "-"
 name                     : &name "Gabby, Suwichaya"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "GabbySuwichaya/gen-ai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio-ssk-3.png"
+  avatar           : "./images/bio-ssk-3.jpeg"
   name             : "Suwichaya Suwanwimolkul"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer"
