@@ -1,6 +1,6 @@
 ---
 title: "Deep learning for solar energy forecasting using time-series data [#SeniorY2023]"
-excerpt: "This project studies the training of DNNs and used them to infer solar irradiance from a CUEE Dataset. [Final Report](https://drive.google.com/file/d/12Ymq_RUfx6PuU24alkB63ZFYjn7aUboa/view?usp=sharing) / [Code](https://github.com/GenAI-CUEE/SeniorProject-LongTermForecasting) [author: Tanan Boonyasirikul]"
+excerpt: "This project studies the training of DNNs and used them to infer solar irradiance from a CUEE Dataset. [Final Report](https://drive.google.com/file/d/12Ymq_RUfx6PuU24alkB63ZFYjn7aUboa/view?usp=sharing) / [Code](https://github.com/GenAI-CUEE/SeniorProject-LongTermForecasting) **author: Tanan Boonyasirikul**"
 collection: portfolio
 ---
 
@@ -10,3 +10,4 @@ Material:
 - [Senior project report](https://drive.google.com/file/d/12Ymq_RUfx6PuU24alkB63ZFYjn7aUboa/view?usp=sharing) 
 - Github page: https://github.com/GenAI-CUEE/SeniorProject-LongTermForecasting
  
+Author: **Tanan Boonyasirikul**
