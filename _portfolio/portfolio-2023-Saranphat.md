@@ -1,6 +1,6 @@
 ---
-title: "Optical flow learning for sky image generation [#SeniorY2023]"
-excerpt: 'This project studies the benchmarks of solar irradiance forecasting using sky images. [Final Report](https://drive.google.com/file/d/1YKwW2zGm9B2dzAExcgS9pBiPaEbp71o7/view?usp=sharing) **author:  Saranphat Mesakulroong**' 
+title: "Optical flow learning for sky image generation"
+excerpt: 'This project studies the benchmarks of solar irradiance forecasting using sky images. [Final Report](https://drive.google.com/file/d/1YKwW2zGm9B2dzAExcgS9pBiPaEbp71o7/view?usp=sharing) **author:  Saranphat Mesakulroong** #SeniorY2023' 
 collection: portfolio
 ---
 
@@ -9,4 +9,6 @@ This project studies the benchmarks of solar irradiance forecasting using sky im
 Material: [Senior project report](https://drive.google.com/file/d/1YKwW2zGm9B2dzAExcgS9pBiPaEbp71o7/view?usp=sharing)
 
 Author: **Saranphat Mesakulroong**
+
+Year: SeniorY2023
  
