@@ -1,12 +1,13 @@
 ---
 title: "Optical flow learning for sky image generation"
-excerpt: 'This project studies the benchmarks of solar irradiance forecasting using sky images. <br/><img src="images/portfolio2023saranphat.png" alt="y2023saranphat">'
+description: 'This project studies the benchmarks of solar irradiance forecasting using sky images.'
+Project report:  [Senior project report](https://drive.google.com/file/d/1YKwW2zGm9B2dzAExcgS9pBiPaEbp71o7/view?usp=sharing) 
 collection: portfolio
 ---
 
 This project studies the benchmarks of solar irradiance forecasting using sky images. We tested and studied the following methods SkyUNet, PhyDNet + GAN, ConvLSTM, SUNSET, Solarnet, and UNET. 
 
 Material:
-- [Senior project report](https://drive.google.com/file/d/1YKwW2zGm9B2dzAExcgS9pBiPaEbp71o7/view?usp=sharing) 
+- 
 
 ![Y2023-Saranphat](images/portfolio2023saranphat.png){:width="300px"}   
