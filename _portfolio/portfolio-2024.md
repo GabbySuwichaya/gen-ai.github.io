@@ -9,4 +9,4 @@ The study involves training and evaluating three deep learning models SUNSET, Un
 Material:
 - [Senior project report](https://drive.google.com/file/d/1CT8Mi-VFRB4X8Ct3NKapmp9PWd7xMMp_/view?usp=sharing) 
 
-![Y2023-Tanan](portfolio-y2024.png){:width="300px"} 
+![Y2024](portfolio-y2024.png){:width="300px"} 
