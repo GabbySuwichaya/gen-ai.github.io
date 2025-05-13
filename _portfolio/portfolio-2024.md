@@ -1,6 +1,6 @@
 ---
 title: "Database and image preprocessing for solar energy forecasting"
-excerpt: "This project studies training and evaluating three deep learning models SUNSET, Unet, and SolarNet for forecasting solar irradiance on SIRTA, SKIPPD, and CUEE datasets. <br/><img src='/images/portfolio-Y2024-Kongpob-Kanawut.png' width='300' >"
+excerpt: "This project studies training and evaluating three deep learning models SUNSET, Unet, and SolarNet for forecasting solar irradiance on SIRTA, SKIPPD, and CUEE datasets. <br/><img src='/images/portfolio-Y2024-Kongpob-Kanawut.png'>"
 collection: portfolio
 ---
 
