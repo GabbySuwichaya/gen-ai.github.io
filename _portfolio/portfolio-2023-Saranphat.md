@@ -1,6 +1,6 @@
 ---
 title: "Optical flow learning for sky image generation"
-excerpt: " This project studies the benchmarks of solar irradiance forecasting using sky images. <br/><img src='/images/portfolio2023saranphat.png' alt='y2023saranphat'>"
+excerpt: " This project studies the benchmarks of solar irradiance forecasting using sky images. <br/><img src='images/portfolio2023saranphat.png' alt='y2023saranphat'>"
 collection: portfolio
 ---
 
@@ -9,4 +9,4 @@ This project studies the benchmarks of solar irradiance forecasting using sky im
 Material:
 - [Senior project report](https://drive.google.com/file/d/1YKwW2zGm9B2dzAExcgS9pBiPaEbp71o7/view?usp=sharing) 
 
-![Y2023-Saranphat](/images/portfolio2023saranphat.png){:width="300px"}   
+![Y2023-Saranphat](images/portfolio2023saranphat.png){:width="300px"}   
