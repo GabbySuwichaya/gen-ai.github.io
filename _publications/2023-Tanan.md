@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-Tanan
 excerpt: 'This project studies the training of DNNs and used them to infer solar irradiance from a CUEE Dataset.'
-date: 2023-05
+date: 2023-05-14
 venue: 'Senior Project 499, Chulalongkorn University' 
 paperurl: 'https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2023Tanan/499.pdf'
 ---
