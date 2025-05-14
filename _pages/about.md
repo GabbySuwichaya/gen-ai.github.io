@@ -17,7 +17,7 @@ Our activities are
 
 - academic lectures in machine learning and data analytics. See [*Teaching*](https://gabbysuwichaya.github.io/gen-ai.github.io/teaching). 
 
-- AI-based solutions solutions to those who are interested. See [*Publications*](https://gabbysuwichaya.github.io/gen-ai.github.io/Publications) for our past works done in the industries. The work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).  
+- AI-based solutions solutions to those who are interested. See [*Publications*](https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en) for our past works done in the industries. The work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).  
 
 - Moreover, we often collaborate with [energyCUEE](https://github.com/energyCUEE) led by [Professor Jitkomut Songsiri](http://jitkomut.eng.chula.ac.th/) for the AI-based solution in solar energy. 
 
