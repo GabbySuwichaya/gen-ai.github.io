@@ -7,6 +7,7 @@ excerpt: 'This project studies the benchmarks of solar irradiance forecasting us
 date: 2023-05-14
 venue: 'Senior Project 499, Chulalongkorn University' 
 paperurl: 'https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2023Saranphat/499.pdf'
+authors: Saranphat Mesakulroong
 ---
 
 This project studies the benchmarks of solar irradiance forecasting using sky images. We tested and studied the following methods SkyUNet, PhyDNet + GAN, ConvLSTM, SUNSET, Solarnet, and UNET. 
