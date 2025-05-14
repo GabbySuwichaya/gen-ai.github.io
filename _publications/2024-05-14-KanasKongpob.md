@@ -1,11 +1,11 @@
 ---
 title: "Database and image preprocessing for solar energy forecasting"
 collection: publications
-category: manuscripts
+category: seniorproj
 permalink: /publication/2024-KanasKongpob
 excerpt: 'This project studies training and evaluating three deep learning models SUNSET, Unet, and SolarNet for forecasting solar irradiance on SIRTA, SKIPPD, and CUEE datasets.'
 date: 2024-05-14
-venue: 'Senior Project 499, Chulalongkorn University by Kanawut Suwandee and Kongpob In-odd' 
+venue: 'Senior Project 499 at Chulalongkorn University by Kanawut Suwandee and Kongpob In-odd' 
 paperurl: 'https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/499.pdf' 
 ---
 
