@@ -6,7 +6,7 @@ permalink: /publication/2024-KanasKongpob
 excerpt: 'This project studies training and evaluating three deep learning models SUNSET, Unet, and SolarNet for forecasting solar irradiance on SIRTA, SKIPPD, and CUEE datasets.'
 date: 2024-05-14
 venue: 'Senior Project 499 at Chulalongkorn University by Kanawut Suwandee and Kongpob In-odd' 
-slidesurl: 'http://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/Slide.pdf'
+bibtexurl: 'http://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/Slide.pdf'
 paperurl: 'https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/499.pdf' 
 ---
 
