@@ -18,7 +18,9 @@ Authors:
 
 Year: SeniorY2024
 
-[Senior project report](https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/499.pdf)  |  [Youtube](https://www.youtube.com/watch?v=LUjvYY8J1-w&t=1199s)
+[Senior project report](https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/499.pdf)   
+
+[Youtube](https://www.youtube.com/watch?v=LUjvYY8J1-w&t=1199s)
   
 
 
