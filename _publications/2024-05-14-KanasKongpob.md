@@ -7,6 +7,7 @@ excerpt: 'This project studies training and evaluating three deep learning model
 date: 2024-05-14
 venue: 'Senior Project 499 at Chulalongkorn University by Kanawut Suwandee and Kongpob In-odd' 
 paperurl: 'https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/499.pdf' 
+slidesurl: 'http://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/Slide.pdf'
 ---
 
 The study involves training and evaluating three deep learning models SUNSET, Unet, and SolarNet for forecasting solar irradiance up to 15 future timestamps (with 1–2 minute resolution), followed by model improvement. The preprocessing pipeline includes fisheye distortion correction and region of interest (RoI) extraction from sky images, followed by cloud mask generation.
@@ -14,6 +15,8 @@ The study involves training and evaluating three deep learning models SUNSET, Un
 Year: SeniorY2024
 
 [Senior project report](https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/499.pdf)  
+
+[Presentation slide](http://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/Slide.pdf)
 
 [Youtube](https://www.youtube.com/watch?v=LUjvYY8J1-w&t=1199s)
   
