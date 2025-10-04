@@ -13,7 +13,7 @@ GenAI is a research group at Chulalongkorn University under [Data Analytics (DTA
 
 **Our activities** include 
 
-- academic reasearch for AI-based solutions in solar energy. See [*Research Groups*](https://gabbysuwichaya.github.io/gen-ai.github.io/publications/) for the recent works done by undergraduate students.  
+- academic reasearch for AI-based solutions for solar energy applications. See [*Research Groups*](https://gabbysuwichaya.github.io/gen-ai.github.io/publications/) for the recent works done by undergraduate students.  
 
 - academic lectures in machine learning and data analytics. See [*Teaching*](https://gabbysuwichaya.github.io/gen-ai.github.io/teaching). 
 
