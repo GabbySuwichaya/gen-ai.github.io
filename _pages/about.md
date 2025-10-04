@@ -11,17 +11,23 @@ redirect_from:
 
 GenAI is a research group at Chulalongkorn University under [Data Analytics (DTA)](https://ee.eng.chula.ac.th/data-analytics-dta/). 
 
-Our activities are 
+**Our activities** include 
 
-- academic reasearch for deep learning-based solutions. See [*Research Groups*](https://gabbysuwichaya.github.io/gen-ai.github.io/publications/) for the recent works done by undergraduate students.  
+- academic reasearch for AI-based solutions. See [*Research Groups*](https://gabbysuwichaya.github.io/gen-ai.github.io/publications/) for the recent works done by undergraduate students.  
 
 - academic lectures in machine learning and data analytics. See [*Teaching*](https://gabbysuwichaya.github.io/gen-ai.github.io/teaching). 
 
-- AI-based solutions solutions to those who are interested. See [*Publications*](https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en) for our past works done in the industries. The work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).  
+- AI-based solutions to those who are interested. See [*Publications*](https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en) for our past works done in the industries. The work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).  
 
-- Moreover, we often collaborate with [energyCUEE](https://github.com/energyCUEE) led by [Professor Jitkomut Songsiri](http://jitkomut.eng.chula.ac.th/) for the AI-based solution in solar energy. 
+Our github page [https://github.com/GenAI-CUEE](https://github.com/GenAI-CUEE) will also be consistently updated to provide the materials for the students.   
 
-Our github page: [https://github.com/GenAI-CUEE](https://github.com/GenAI-CUEE) will also be consistently updated to provide the materials for the students.   
+**Fundings**
+
+- 1M BTH from 111th Anniversary Engineering Research Catalyst Fund Towards U Top 100 for *Solar irradiance database for solar energy forecasting* year 2026 (secured)
+
+- 150K BTH from Researcher Development Fund for *Sky imaging system for solar irradiance forecasting using deep learning* year 2025 (on going)
+
+- 120K + 15K BTH from Researcher Development Fund for *SThailand Solar Irradiance Map: Analysis of Tree-based Models* year 2024 (closed)
 
 
 
