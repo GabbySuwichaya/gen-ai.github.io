@@ -17,9 +17,9 @@ GenAI is a research group at Chulalongkorn University under [Data Analytics (DTA
 
 - academic lectures in machine learning and data analytics. See [*Teaching*](https://gabbysuwichaya.github.io/gen-ai.github.io/teaching). 
 
-- AI-based solutions to those who are interested. See [*Publications*](https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en) for our past works done in the industries. The work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).  
+- AI-based solutions to those who are interested. My life before the academics (includings the visual localization projects done in the industries) can be seen in my old personal website: https://ssuwanwimolkul.weebly.com/  The work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).   
 
-Our github page [https://github.com/GenAI-CUEE](https://github.com/GenAI-CUEE) will also be consistently updated to provide the materials for the students.   
+Also,see [*Publications*](https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en) for our past and most recent works. Our github page [https://github.com/GenAI-CUEE](https://github.com/GenAI-CUEE) will also be consistently updated to provide the materials for the students. 
 
 **Fundings**
 
