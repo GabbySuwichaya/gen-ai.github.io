@@ -16,6 +16,24 @@ Authors:
 - **Kanawut Suwandee**
 - **Kongpob In-odd**
 
+You can cite their work with the following bibtex
+
+```
+@techreport{suwandee2026solar,
+  author      = {Kanawut Suwandee and Kongpob In-odd},
+  title       = {Database and image preprocessing for solar energy forecasting},
+  institution = {Chulalongkorn University},
+  year        = {2024},
+  type        = {Senior Project Report},
+  note        = {Advisor: Dr. Suwichaya Suwanwimolkul}
+}
+```
+or 
+
+```
+Suwandee, Kanawut, and Kongpob In-odd. Database and Image Preprocessing for Solar Energy Forecasting. Advisor: Dr. Suwichaya Suwanwimolkul. Chulalongkorn University, 2024. Senior Project Report. 
+```
+
 Year: SeniorY2024
 
 [Senior project report](https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/499.pdf)   
