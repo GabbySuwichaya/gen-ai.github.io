@@ -12,6 +12,11 @@ slidesurl: 'http://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProject
 
 The study involves training and evaluating three deep learning models SUNSET, Unet, and SolarNet for forecasting solar irradiance up to 15 future timestamps (with 1–2 minute resolution), followed by model improvement. The preprocessing pipeline includes fisheye distortion correction and region of interest (RoI) extraction from sky images, followed by cloud mask generation.
 
+<p align="center">
+  <img src="https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2024KanawutKongpob/portfolio2024.png" alt="ProjectScreenshot" width="400" />
+</p>
+
+
 Authors: 
 - **Kanawut Suwandee**
 - **Kongpob In-odd**

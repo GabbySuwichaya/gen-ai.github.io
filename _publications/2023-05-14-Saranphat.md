@@ -13,7 +13,7 @@ This project studies the benchmarks of solar irradiance forecasting using sky im
 
 
 <p align="center">
-  <img src="https://gabbysuwichaya.github.io/gen-ai.github.io/images/portfolio2023saranphat.png" alt="ProjectScreenshot" width="400" />
+  <img src="https://gabbysuwichaya.github.io/gen-ai.github.io/files/SeniorProjects/2023Saranphat/portfolio2023saranphat.png" alt="ProjectScreenshot" width="400" />
 </p>
 
 Author: **Saranphat Mesakulroong**
