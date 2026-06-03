@@ -40,4 +40,6 @@ Also,see [*Publications*](https://scholar.google.com/citations?user=mXXkZMUAAAAJ
 - 120K + 15K BTH from Researcher Development Fund for *SThailand Solar Irradiance Map: Analysis of Tree-based Models* year 2024 (closed)
 
 
- 
+ <p align="center">
+  <img src="https://gabbysuwichaya.github.io/gen-ai.github.io/files/ResearchThemes/Media2.mp4" alt="ProjectScreenshot" width="400" />
+</p>
