@@ -20,14 +20,18 @@ redirect_from:
 
 - Academic lectures in machine learning and data analytics. See [*Teaching*](https://gabbysuwichaya.github.io/gen-ai.github.io/teaching). 
 
-- AI-based solutions to those who are interested. My life before the academics (includings visual localization projects done in the industries) can be seen in [my old personal website](https://ssuwanwimolkul.weebly.com/). My work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).   
+- AI-based solutions to those who are interested. My life before the academics (visual localization projects done in the industries) can be seen in [my old personal website](https://ssuwanwimolkul.weebly.com/). My work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).   
 
 **Collaborations**  
-
-- **Dataset Construction for Building Classification and Density Estimation from HR Satellite Imageries** @ [*GISTDA*](https://www.gistda.or.th/home.php), Thailand. [*[Github]*](https://github.com/GenAI-CUEE/GeoAnnotation/tree/dev2026) [*[Poster PDF]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.pdf) [*[Poster PNG]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.png)
- 
-
 - RE100 Project @ [*CEPT*](https://www.cept.eng.chula.ac.th/) & [*Data Analytics (DTA) Group*](https://ee.eng.chula.ac.th/data-analytics-dta/), Chulalongkorn University
+
+- **Dataset Construction for Building Classification and Density Estimation from HR Satellite Imageries** @ [*GISTDA*](https://www.gistda.or.th/home.php), Thailand. [*[Github]*](https://github.com/GenAI-CUEE/GeoAnnotation/tree/dev2026) [*[Poster PDF]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.pdf)  
+ 
+ <p align="center">
+  <img src="https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.png" alt="ProjectScreenshot" width="200" />
+</p>
+
+
    
 
 **Fundings**
