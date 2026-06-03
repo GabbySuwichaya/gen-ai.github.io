@@ -24,6 +24,7 @@ Also,see [*Publications*](https://scholar.google.com/citations?user=mXXkZMUAAAAJ
 - [*GISTDA*](https://www.gistda.or.th/home.php) 
   Project: Dataset Construction for Building Classification and Density Estimation from HR Satellite Imageries
   Materials: [*Github*](https://github.com/GenAI-CUEE/GeoAnnotation/tree/dev2026) [*Poster [PDF]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.pdf) [*Poster [PNG]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.png)
+ 
 
 - [*CEPT*](https://www.cept.eng.chula.ac.th/)
   RE100 Research Group
@@ -38,3 +39,7 @@ Also,see [*Publications*](https://scholar.google.com/citations?user=mXXkZMUAAAAJ
 
 - 120K + 15K BTH from Researcher Development Fund for *SThailand Solar Irradiance Map: Analysis of Tree-based Models* year 2024 (closed)
 
+
+<p align="center">
+  <img src="https://gabbysuwichaya.github.io/gen-ai.github.io/files/ResearchThemes/PPT-SSK.gif" alt="ProjectScreenshot" width="400" />
+</p>
