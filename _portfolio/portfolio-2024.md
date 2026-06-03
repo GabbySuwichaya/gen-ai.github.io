@@ -9,7 +9,7 @@ The study involves training and evaluating three deep learning models SUNSET, Un
 
 
 
-Material: [Final Report](https://drive.google.com/file/d/1CT8Mi-VFRB4X8Ct3NKapmp9PWd7xMMp_/view?usp=sharing) 
+Final Report: [Final Report](https://drive.google.com/file/d/1CT8Mi-VFRB4X8Ct3NKapmp9PWd7xMMp_/view?usp=sharing) 
 
 Youtube: [Recorded presentation](https://www.youtube.com/watch?v=LUjvYY8J1-w&t=1199s)
   
