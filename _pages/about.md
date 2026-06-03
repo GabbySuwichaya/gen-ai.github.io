@@ -21,9 +21,8 @@ Also,see [*Publications*](https://scholar.google.com/citations?user=mXXkZMUAAAAJ
 
 **Collaborations**  
 
-- [*GISTDA*](https://www.gistda.or.th/home.php) 
-  Project: Dataset Construction for Building Classification and Density Estimation from HR Satellite Imageries
-  Materials: [*Github*](https://github.com/GenAI-CUEE/GeoAnnotation/tree/dev2026) [*Poster [PDF]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.pdf) [*Poster [PNG]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.png)
+- [*GISTDA*](https://www.gistda.or.th/home.php) **Dataset Construction for Building Classification and Density Estimation from HR Satellite Imageries** 
+  [*Github*](https://github.com/GenAI-CUEE/GeoAnnotation/tree/dev2026) [*Poster [PDF]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.pdf) [*Poster [PNG]*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/Capstones/2025.png)
  
 
 - [*CEPT*](https://www.cept.eng.chula.ac.th/)
