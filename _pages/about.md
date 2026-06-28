@@ -10,7 +10,7 @@ redirect_from:
 
 **Our activities**  
 
-- Academic reasearch for AI-based solutions for solar energy applications. See [*Research Groups*](https://gabbysuwichaya.github.io/gen-ai.github.io/publications/) for the recent works done by undergraduate students. See [*Publications*](https://scholar.google.com/citations?user=mXXkZMUAAAAJ&hl=en) for our past and most recent works. 
+- Academic reasearch for AI-based solutions for solar energy applications. See [*Research Groups*](https://gabbysuwichaya.github.io/gen-ai.github.io/publications/) for the recent works done by undergraduate students. See [*Publications*](https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en) for our past and most recent works. 
 
 <p align="center">
   <img src="https://gabbysuwichaya.github.io/gen-ai.github.io/files/ResearchThemes/fund.png" alt="ProjectScreenshot" width="600" />
