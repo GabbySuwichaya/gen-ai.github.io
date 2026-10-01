@@ -22,17 +22,4 @@ main:
     
 
   - title: "CV"
-    url: /files/SuwichayaCV.pdf 
-
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "Talks"
-  #   url: /talks/    
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /files/SuwichayaCV.pdf
