@@ -10,6 +10,8 @@ redirect_from:
 
 **Our activities**  
 
+- Recently submitted *Single-stage joint diffusion of sky images and clear-sky index for ultra-short-term irradiance forecasting: what the frame-to-irradiance stage discards*. [*[Preprint]*](https://www.researchgate.net/publication/414963178_Single-stage_joint_diffusion_of_sky_images_and_clear-sky_index_for_ultra-short-term_irradiance_forecasting_what_the_frame-to-irradiance_stage_discards/stats) [*[Code]*](https://github.com/GenAI-CUEE/Single-stage-joint-diffusion)
+
 - Academic reasearch for AI-based solutions for solar energy applications. See [*Research Groups*](https://gabbysuwichaya.github.io/gen-ai.github.io/publications/) for the recent works done by undergraduate students. See [*Publications*](https://scholar.google.com/citations?user=sa0BihMAAAAJ&hl=en) for our past and most recent works. 
 
 <p align="center">
