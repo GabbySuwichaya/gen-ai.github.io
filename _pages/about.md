@@ -20,7 +20,7 @@ redirect_from:
 
 - Academic lectures in machine learning and data analytics. See [*Teaching*](https://gabbysuwichaya.github.io/gen-ai.github.io/teaching). 
 
-- AI-based solutions to those who are interested. My life before the academics (visual localization projects done in the industries) can be seen in [my old personal website](https://ssuwanwimolkul.weebly.com/). My work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/CV).   
+- AI-based solutions to those who are interested. My life before the academics (visual localization projects done in the industries) can be seen in [my old personal website](https://ssuwanwimolkul.weebly.com/). My work experience is also provided in [*CV*](https://gabbysuwichaya.github.io/gen-ai.github.io/files/SuwichayaCV.pdf).   
 
 **Collaborations**  
 - RE100 Project @ [*CEPT*](https://www.cept.eng.chula.ac.th/) & [*Data Analytics (DTA) Group*](https://ee.eng.chula.ac.th/data-analytics-dta/), Chulalongkorn University
