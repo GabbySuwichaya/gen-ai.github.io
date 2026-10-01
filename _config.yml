@@ -80,6 +80,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  masterresearch:
+    title: 'Master Research'
   seniorproj:
     title: 'Senior Projects'
   manuscripts:
